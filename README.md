@@ -16,14 +16,14 @@ It lets you play unlimited rounds of Wordle, checks your guesses against a real 
 
 <!-- Replace with your own screenshot or live link if available -->
 
-![Screenshot of Infinite Wordle](screenshot.png)
+![Screenshot of Infinite Wordle](/public/demo.png)
 
 ## Getting Started
 
 ### 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/infinite-wordle.git
+git clone https://github.com/ccchaigordon/infinite-wordle.git
 cd infinite-wordle
 ```
 
